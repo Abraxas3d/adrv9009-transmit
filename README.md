@@ -16,4 +16,7 @@ The code is based on the 2022.2 branch example code adrv9009-stream.c. The platf
 - [x]  The original example code was built and run. 
 - [x]  The transmit-all-zeros were replaced with randomly selected numbers and a carrier observed.
 - [ ]  wiggle.c demonstration was attempted. The sampling frequency was updated, but the signals did not match the Pluto demonstration. 
-- [x]  Transmit buffer was set up as cyclic and an approximately 16 kHz sine wave was constructed and loaded up. 
+- [x]  Transmit buffer was set up as cyclic and an approximately 16 kHz sine wave was constructed and loaded up.
+- [x]  Profile created with Profile Configuration Tool. 
+- [ ]  Profile loaded manually with no errors.
+- [ ]  Profile loaded automatically with no errors.
